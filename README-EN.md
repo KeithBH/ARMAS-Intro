@@ -1,5 +1,7 @@
 # Introduction to Automated Robot Management & Analysis System
 
+中文版本见[此处](README.md)
+
 ![ARMAS-Icon](https://github.com/KeithBH/ARMAS-Intro/blob/main/ARMAS-Icon-BgWhite.png?raw=true)
 
 The Automated Robot Management & Analysis System (ARMAS) is an automated analysis platform that implements closed-loop quality control for industrial robot programs in automotive BIW workshops.
