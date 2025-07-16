@@ -2,6 +2,8 @@
 
 See English version [here](README-EN.md).
 
+![ARMAS-Icon](https://github.com/KeithBH/ARMAS-Intro/blob/main/ARMAS-Icon-BgWhite.png?raw=true)
+
 焊装机器人程序自动化分析系统，Automated Robot Management & Analysis system，ARMAS，是一个实现了汽车焊装车间内工业机器人程序过程质量闭环管控的自动化分析平台。
 
 ## 🤔 背景
