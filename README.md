@@ -6,7 +6,7 @@ See English version [here](README-EN.md).
 
 查看 [ARMAS 的应用实例](https://my.feishu.cn/wiki/VL3UwIyZ8iJLawkQsiecdGm0noR?from=from_copylink)
 
-![ARMAS-Icon](https://github.com/KeithBH/ARMAS-Intro/blob/main/ARMAS-Icon-BgWhite.png?raw=true)
+![ARMAS-Icon](https://my.feishu.cn/docx/G3sEdAoSgoCMgyxSDYncP7Mrnmb?from=from_copylink)
 
 焊装机器人程序自动化分析系统，Autonomous Robot Management & Analysis System，ARMAS，是一个实现了汽车焊装车间内工业机器人程序过程质量闭环管控的自动化分析平台。
 
